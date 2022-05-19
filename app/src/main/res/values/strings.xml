@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Somaxi</string>
+    <string name="botao_acessar">Acessar</string>
+    <string name="direitos_reservados">© 2020 - Somaxi Tecnologia</string>
+    <string name="botao_sair">Sair</string>
+    <string name="esqueci_senha">Esqueci minha Senha</string>
+    <string name="text_redefinir_senha">Redefinir senha do usuário</string>
+    <string name="botao_redefini_senha">Redefinir Senha</string>
+    <string name="Somaxi">Somaxi</string>
+    <string name="item_sair">Sair</string>
+    <string name="item_alterar_senha">Alterar senha</string>
+    <string name="item_perfil_usuario">Perfil do usuário</string>
+    <string name="texto_despesa">Despesa</string>
+    <string name="cliente">Cliente</string>
+    <string name="chamado">Chamado</string>
+    <string name="comprovante">Comprovante</string>
+    <string name="botao_enviar_prestacao">Enviar</string>
+    <string name="orientacoes_financeiras">Orientações Financeiras</string>
+    <string name="cartao_corporativo">Cartão Corporativo</string>
+    <string name="confe_aprova_gastos">Conferência e Aprovação dos Gastos</string>
+    <string name="texto_cartao_corporativo">FORNECIMENTO E REGRAS DE UTILIZAÇÃO.   O Cartão corporativo é fornecido aos funcionários da Somaxi, que realizam, com frequência, gastos que são de responsabilidade da empresa. Com o uso do cartão, evita-se que os funcionários Utilizem recursos próprios para cobertura de despesas diversas decorrentes de sua atividade ou função, principalmente com locomoção, quilometragem, táxi, refeições, combustível, pedágio, estacionamento e hospedagem. Portanto, para concessão do cartão, deve ser observado se o funcionário se enquadra nas condições acima. Utilização: Para cada cartão será atribuído um limite mensal para a realização dos gastos já mencionados. Sempre que for utilizado o portador do cartão se obriga a realizar, oenvio do comprovante do gasto realizado, mediante foto de nota fiscal/cupom. Não será permitido o uso do cartão para realização de compras de produtos de qualquer natureza, sem que seja autorizado a compra pelo gestor. É proibido o uso do cartão para cobertura de gastos pessoais do portador.
+    </string>
+    <string name="texto_conferencia_aprovacao">A aprovação dos gastos realizados far-se-á mediante o envio das notas/cupons fiscais e conferencia do setor financeiro, além de confirmação de compra previamente autorizada pelos gestores (Mario / Pricila). Compras realizadas que estejam fora dos requisitos acima só serão aprovadas após investigações dos motivos que levaram a não cumprir os requisitos acima. Comprovantes Os documentos comprobatórios da realização das despesas deverão estar sempre na condição de originais e sem rasuras. Os documentos fiscais deverão conter sempre o nome da Somaxi o CNPJ no mínimo. Não serão admitidos como comprovantes de despesas os documentos denominados de “nota fiscal ao consumidor”; Não serão admitidos como comprovantes de despesas os documentos denominados de “cupom fiscal”, onde não conste impresso o nome e o CNPJ da empresa adquirente (Somaxi); Não serão admitidos os comprovantes que caracterizem o consumo de bebidas alcoólicas; Não serão admitidas as notasmanuais, com valores escritos a mão.LIMITES: Quilometragem Quando o deslocamento do funcionário for realizado com a utilização de veículo próprio, já autorizado pelos gestores, a Somaxi ressarcira o valor de 1,00 real por KM rodado. Uma foto do odômetro do veiculo deve ser feita no inicio do deslocamento e um outra deve ser feito ao final. Cabe a cada Gestor avaliar a liberação do uso de veículo próprio para deslocamentos e realizar a conferencia do KM total através do Google Maps. Não serão computados para efeito de reembolso os quilômetros rodados que o funcionário normalmente realiza para deslocamento entre sua residência e o cliente fora de expediente. REFEIÇÕES: Nos dias úteis o colaborador terá direito a refeição (jantar no valor máximo de 35,00 reais) quando estiver realizando trabalhos extraordinários (hora extra), desde que com duração superior a duas horas; Aos domingos, terá direito ao reembolso o funcionário que trabalhar por no mínimo 4 (quatro) horas extras consecutivas; (o intervalo deve ser registrado no Ponto Mais). UBER: Os comprovantes de UBER deverão ser enviados com o nome do cliente e o numero do chamado.
+    </string>
+    <string-array name="classificacao">
+        <item>Classificar</item>
+        <item>Manutenção</item>
+        <item>TI</item>
+    </string-array>
+    <string-array name="tipo_despesa">
+        <item>Tipo Despesa</item>
+        <item>Abastecimento</item>
+        <item>Aluguel de Maquinário</item>
+        <item>Compra de Materiais</item>
+        <item>Deslocamento</item>
+        <item>Envio de Materiais</item>
+        <item>Estacionamento</item>
+        <item>Gastos Carro Frota</item>
+        <item>Pedágio</item>
+        <item>Refeição Almoço</item>
+        <item>Refeição Jantar</item>
+    </string-array>
+    <string-array name="clientes">
+        <item>Cliente</item>
+        <item>ALMMA</item>
+        <item>BURGUER KING</item>
+        <item>DFS</item>
+        <item>HIT</item>
+        <item>INNOVA LOG</item>
+        <item>VTT</item>
+    </string-array>
+    <string-array name="comprovante">
+        <item>Tipo Comprovante</item>
+        <item>Cupom Fiscal</item>
+        <item>Nota Fiscal</item>
+        <item>Recibo</item>
+    </string-array>
+    <string-array name="forma_pagamento">
+        <item>Forma de Pagamento</item>
+        <item>Cartão Corporativo</item>
+        <item>Dinheiro</item>
+    </string-array>
+
+
+</resources>

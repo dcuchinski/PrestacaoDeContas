@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tamanho_texto_formulario">18dp</dimen>
+    <dimen name="titulo_ajuda">24sp</dimen>
+</resources>

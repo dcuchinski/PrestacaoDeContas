@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "328634761533",
+    "firebase_url": "https://prestecao-de-contas-somaxi.firebaseio.com",
+    "project_id": "prestecao-de-contas-somaxi",
+    "storage_bucket": "prestecao-de-contas-somaxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328634761533:android:7d86d8c2d31ebed123c554",
+        "android_client_info": {
+          "package_name": "br.com.somaxi.appsomaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328634761533-1tj0pn2fvfehgonv5qqnv0i861gr3tuh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.somaxi.appsomaxi",
+            "certificate_hash": "37923a9b28bc91fd1bfca84d1248f4532421288f"
+          }
+        },
+        {
+          "client_id": "328634761533-dc50ilnetj1d429jd7cj9tdol93g6nvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8kEY-eQb3xTYbGojB0Ir1Glr9iDalaLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328634761533-dc50ilnetj1d429jd7cj9tdol93g6nvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328634761533:android:0903a50514b28d3623c554",
+        "android_client_info": {
+          "package_name": "br.com.somaxi.pestacaodecontas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328634761533-68pk06iq04as17vtrp52610jgbueekrr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.somaxi.pestacaodecontas",
+            "certificate_hash": "37923a9b28bc91fd1bfca84d1248f4532421288f"
+          }
+        },
+        {
+          "client_id": "328634761533-dc50ilnetj1d429jd7cj9tdol93g6nvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8kEY-eQb3xTYbGojB0Ir1Glr9iDalaLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328634761533-dc50ilnetj1d429jd7cj9tdol93g6nvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

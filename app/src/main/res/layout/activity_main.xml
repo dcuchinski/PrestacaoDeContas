@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/MainActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context=".activity.MainActivity">
+
+    <TextView
+        android:id="@+id/textDireitosReservados4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:layout_marginBottom="16dp"
+        android:text="@string/direitos_reservados"
+        android:textColor="@color/colorPrimaryDark"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textEsqueciSenha"
+        app:layout_constraintVertical_bias="0.865" />
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar" />
+
+    <ImageView
+        android:id="@+id/image_prestar_contas"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="60dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/image_logo_somaxi"
+        app:srcCompat="@drawable/prestar_conta" />
+
+    <ImageView
+        android:id="@+id/image_dados_somaxi"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        app:layout_constraintStart_toEndOf="@+id/image_rac_digital"
+        app:layout_constraintTop_toTopOf="@+id/image_rac_digital"
+        app:srcCompat="@drawable/dados_somaxi" />
+
+    <ImageView
+        android:id="@+id/image_portifolio"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        app:layout_constraintBottom_toBottomOf="@+id/image_dados_somaxi"
+        app:layout_constraintStart_toEndOf="@+id/image_dados_somaxi"
+        app:srcCompat="@drawable/portifolio_somaxi" />
+
+    <ImageView
+        android:id="@+id/image_rac_digital"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        app:layout_constraintStart_toEndOf="@+id/image_prestar_contas"
+        app:layout_constraintTop_toTopOf="@+id/image_prestar_contas"
+        app:srcCompat="@drawable/rac_digital" />
+
+    <ImageView
+        android:id="@+id/image_logo_somaxi"
+        android:layout_width="250dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="60dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar"
+        app:srcCompat="@drawable/logotipo_somaxi_principal" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
